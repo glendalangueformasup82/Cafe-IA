@@ -1,2 +1,2 @@
 # Cafe-IA
-Dans le cadre d'une évaluation j'ai créér avec Claude
+Dans le cadre d'une évaluation j'ai créér avec Claude IA une "landingpage"
